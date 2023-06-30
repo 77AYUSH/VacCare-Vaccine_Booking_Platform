@@ -35,6 +35,10 @@ User Dasboard :
 
 ![image](https://github.com/77AYUSH/VacCare-Vaccine_Booking_Platform/assets/89724493/1ec4ee47-2f51-4d5b-957e-cf6481ad4630)
 
+Vaccinatior Dashboard :
+![image](https://github.com/77AYUSH/VacCare-Vaccine_Booking_Platform/assets/89724493/1a1bd101-4c90-45e0-a78d-f17bf2221e2f)
+
+
 
 
 
