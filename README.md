@@ -1,5 +1,5 @@
 # VacCare-Vaccine_Booking_Platform
-
+(Please refer to end of the README FILE to get login credentials)
  VacCare is a web-based technology that brings up various vaccination centers’ works online. 
  Here users are first allowed to register on the website. Users provide details of personal and vaccination information.
  Once users get registered with their address and contact details, they registered users book vaccination for their loved ones. 
